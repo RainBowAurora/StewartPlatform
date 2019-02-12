@@ -1,0 +1,10 @@
+<launch>
+    <param name="platform_control_mode" value="0" />
+    <node name="platform_bringup" pkg="stewart_platform" type="stewart_platform" output="screen">        
+    </node>
+    
+    <node name="ps2" pkg="ps2_joysticker" type="joysticker" output="screen" />
+
+   <!-- <node name="servo" pkg="pca9685_device" type="servo" output="screen" /> -->
+    
+</launch>
