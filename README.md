@@ -1,7 +1,5 @@
 # StewartPlatform
-[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](https://github.com/RainBowAurora/StewartPlatform)
-
-[![release](https://img.shields.io/github/release/RainBowAurora/StewartPlatform.svg)]
+[![release](https://img.shields.io/github/release/RainBowAurora/StewartPlatform.svg)](https://github.com/RainBowAurora/StewartPlatform/releases) ![downloads](https://img.shields.io/npm/dt/StewartPlatform.svg)
 
 1. 硬件: 树莓派3b/3b+
 2. 操作系统: ubuntu\_16.04
@@ -42,5 +40,6 @@ $ catkin_make -j1
 roslaunch stewart_platform bringup.launch
 ```
 
-
+## 维护
+如果有任何问题请联系: 851045076@qq.com
 
