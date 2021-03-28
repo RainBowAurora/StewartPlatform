@@ -1,5 +1,6 @@
 # StewartPlatform
-[![release](https://img.shields.io/github/release/RainBowAurora/StewartPlatform.svg)](https://github.com/RainBowAurora/StewartPlatform/releases) ![downloads](https://img.shields.io/npm/dt/StewartPlatform.svg)
+[![release](https://img.shields.io/github/release/RainBowAurora/StewartPlatform.svg)](https://github.com/RainBowAurora/StewartPlatform/releases)
+[![bilibili](https://img.shields.io/badge/bilibili-video-red)](https://www.bilibili.com/video/BV1Gp4y1a7Tx)
 
 1. 硬件: 树莓派3b/3b+
 2. 操作系统: ubuntu\_16.04
