@@ -1,6 +1,8 @@
 # StewartPlatform
 [![release](https://img.shields.io/github/release/RainBowAurora/StewartPlatform.svg)](https://github.com/RainBowAurora/StewartPlatform/releases)
 [![bilibili](https://img.shields.io/badge/bilibili-video-red)](https://www.bilibili.com/video/BV1Gp4y1a7Tx)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-16.04-brightgreen)](https://jingyan.baidu.com/article/3c48dd348bc005e10be358eb.html)
+[![ROS](https://img.shields.io/badge/ROS-Kinetic-blue)](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 
 1. 硬件: 树莓派3b/3b+
 2. 操作系统: ubuntu\_16.04
